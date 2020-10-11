@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\CreateUserService\bin\Debug\netcoreapp3.1\CreateUserService.deps.json
+C:\Users\user1\Desktop\DrawingSever\CreateUserService\bin\Debug\netcoreapp3.1\CreateUserService.dll
+C:\Users\user1\Desktop\DrawingSever\CreateUserService\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\CreateUserService\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\CreateUserService\obj\Debug\netcoreapp3.1\CreateUserService.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\CreateUserService\obj\Debug\netcoreapp3.1\CreateUserService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\CreateUserService\obj\Debug\netcoreapp3.1\CreateUserService.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\CreateUserService\obj\Debug\netcoreapp3.1\CreateUserService.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\CreateUserService\bin\Debug\netcoreapp3.1\CreateUserService.pdb
+C:\Users\user1\Desktop\DrawingSever\CreateUserService\obj\Debug\netcoreapp3.1\CreateUserService.dll
+C:\Users\user1\Desktop\DrawingSever\CreateUserService\obj\Debug\netcoreapp3.1\CreateUserService.pdb
+C:\Users\user1\Desktop\DrawingSever\CreateUserService\obj\Debug\netcoreapp3.1\CreateUserService.csproj.CoreCompileInputs.cache

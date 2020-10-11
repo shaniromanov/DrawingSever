@@ -1,0 +1,9 @@
+C:\Users\user1\Desktop\DrawingSever\GenerateIdContracts\bin\Debug\netcoreapp3.1\GenerateIdContracts.deps.json
+C:\Users\user1\Desktop\DrawingSever\GenerateIdContracts\bin\Debug\netcoreapp3.1\GenerateIdContracts.dll
+C:\Users\user1\Desktop\DrawingSever\GenerateIdContracts\bin\Debug\netcoreapp3.1\GenerateIdContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\GenerateIdContracts\obj\Debug\netcoreapp3.1\GenerateIdContracts.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\GenerateIdContracts\obj\Debug\netcoreapp3.1\GenerateIdContracts.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\GenerateIdContracts\obj\Debug\netcoreapp3.1\GenerateIdContracts.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\GenerateIdContracts\obj\Debug\netcoreapp3.1\GenerateIdContracts.dll
+C:\Users\user1\Desktop\DrawingSever\GenerateIdContracts\obj\Debug\netcoreapp3.1\GenerateIdContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\GenerateIdContracts\obj\Debug\netcoreapp3.1\GenerateIdContracts.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCoreContracts\bin\Release\netcoreapp3.1\ImageServiceCoreContracts.deps.json
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCoreContracts\bin\Release\netcoreapp3.1\ImageServiceCoreContracts.dll
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCoreContracts\bin\Release\netcoreapp3.1\ImageServiceCoreContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCoreContracts\obj\Release\netcoreapp3.1\ImageServiceCoreContracts.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCoreContracts\obj\Release\netcoreapp3.1\ImageServiceCoreContracts.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCoreContracts\obj\Release\netcoreapp3.1\ImageServiceCoreContracts.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCoreContracts\obj\Release\netcoreapp3.1\ImageServiceCoreContracts.dll
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCoreContracts\obj\Release\netcoreapp3.1\ImageServiceCoreContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCoreContracts\obj\Release\netcoreapp3.1\ImageServiceCoreContracts.csprojAssemblyReference.cache

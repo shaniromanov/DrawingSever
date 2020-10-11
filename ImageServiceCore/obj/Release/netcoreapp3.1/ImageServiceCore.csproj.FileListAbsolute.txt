@@ -1,0 +1,9 @@
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCore\bin\Release\netcoreapp3.1\ImageServiceCore.deps.json
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCore\bin\Release\netcoreapp3.1\ImageServiceCore.dll
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCore\bin\Release\netcoreapp3.1\ImageServiceCore.pdb
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCore\obj\Release\netcoreapp3.1\ImageServiceCore.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCore\obj\Release\netcoreapp3.1\ImageServiceCore.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCore\obj\Release\netcoreapp3.1\ImageServiceCore.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCore\obj\Release\netcoreapp3.1\ImageServiceCore.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCore\obj\Release\netcoreapp3.1\ImageServiceCore.dll
+C:\Users\user1\Desktop\DrawingSever\ImageServiceCore\obj\Release\netcoreapp3.1\ImageServiceCore.pdb

@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\GenerateIdService\bin\Debug\netcoreapp3.1\GenerateIdService.deps.json
+C:\Users\user1\Desktop\DrawingSever\GenerateIdService\bin\Debug\netcoreapp3.1\GenerateIdService.dll
+C:\Users\user1\Desktop\DrawingSever\GenerateIdService\bin\Debug\netcoreapp3.1\GenerateIdService.pdb
+C:\Users\user1\Desktop\DrawingSever\GenerateIdService\bin\Debug\netcoreapp3.1\GenerateIdContracts.dll
+C:\Users\user1\Desktop\DrawingSever\GenerateIdService\bin\Debug\netcoreapp3.1\GenerateIdContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\GenerateIdService\obj\Debug\netcoreapp3.1\GenerateIdService.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\GenerateIdService\obj\Debug\netcoreapp3.1\GenerateIdService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\GenerateIdService\obj\Debug\netcoreapp3.1\GenerateIdService.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\GenerateIdService\obj\Debug\netcoreapp3.1\GenerateIdService.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\GenerateIdService\obj\Debug\netcoreapp3.1\GenerateIdService.dll
+C:\Users\user1\Desktop\DrawingSever\GenerateIdService\obj\Debug\netcoreapp3.1\GenerateIdService.pdb
+C:\Users\user1\Desktop\DrawingSever\GenerateIdService\obj\Debug\netcoreapp3.1\GenerateIdService.csproj.CoreCompileInputs.cache

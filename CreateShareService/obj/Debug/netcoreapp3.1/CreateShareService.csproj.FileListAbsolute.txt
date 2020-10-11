@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\CreateShareService\bin\Debug\netcoreapp3.1\CreateShareService.deps.json
+C:\Users\user1\Desktop\DrawingSever\CreateShareService\bin\Debug\netcoreapp3.1\CreateShareService.dll
+C:\Users\user1\Desktop\DrawingSever\CreateShareService\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\CreateShareService\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\CreateShareService\bin\Debug\netcoreapp3.1\CreateShareService.pdb
+C:\Users\user1\Desktop\DrawingSever\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.dll
+C:\Users\user1\Desktop\DrawingSever\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.pdb
+C:\Users\user1\Desktop\DrawingSever\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.csproj.CoreCompileInputs.cache

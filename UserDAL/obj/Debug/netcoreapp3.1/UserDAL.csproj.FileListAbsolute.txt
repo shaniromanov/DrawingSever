@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\UserDAL\bin\Debug\netcoreapp3.1\UserDAL.deps.json
+C:\Users\user1\Desktop\DrawingSever\UserDAL\bin\Debug\netcoreapp3.1\UserDAL.dll
+C:\Users\user1\Desktop\DrawingSever\UserDAL\obj\Debug\netcoreapp3.1\UserDAL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\UserDAL\obj\Debug\netcoreapp3.1\UserDAL.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\UserDAL\obj\Debug\netcoreapp3.1\UserDAL.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\UserDAL\bin\Debug\netcoreapp3.1\UserDAL.pdb
+C:\Users\user1\Desktop\DrawingSever\UserDAL\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\UserDAL\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\UserDAL\obj\Debug\netcoreapp3.1\UserDAL.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\UserDAL\obj\Debug\netcoreapp3.1\UserDAL.dll
+C:\Users\user1\Desktop\DrawingSever\UserDAL\obj\Debug\netcoreapp3.1\UserDAL.pdb
+C:\Users\user1\Desktop\DrawingSever\UserDAL\obj\Debug\netcoreapp3.1\UserDAL.csproj.CoreCompileInputs.cache

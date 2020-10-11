@@ -1,0 +1,229 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OnDocumentSharing/1.0.0": {
+        "dependencies": {
+          "Contracts": "1.0.4",
+          "DrawingContracts": "1.0.0",
+          "ObserverContracts": "1.0.1",
+          "ObserverService": "1.0.1"
+        },
+        "runtime": {
+          "OnDocumentSharing.dll": {}
+        }
+      },
+      "Contracts/1.0.4": {
+        "runtime": {
+          "lib/netcoreapp3.1/Contracts.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "DALContracts/1.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/DALContracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/3.1.7": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.8",
+          "System.IO.Pipelines": "4.7.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll": {
+            "assemblyVersion": "3.1.7.0",
+            "fileVersion": "3.100.720.37213"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration/3.1.8": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.8"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42004"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/3.1.8": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.8"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42004"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.8": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42004"
+          }
+        }
+      },
+      "ObserverContracts/1.0.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/ObserverContracts.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "ObserverService/1.0.1": {
+        "dependencies": {
+          "ObserverContracts": "1.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/ObserverService.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "ODP.NetCore/2.0.12": {
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {
+            "assemblyVersion": "2.0.12.0",
+            "fileVersion": "2.0.12.0"
+          }
+        }
+      },
+      "OracleDAL/1.0.4": {
+        "dependencies": {
+          "DALContracts": "1.0.0",
+          "ODP.NetCore": "2.0.12"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/OracleDAL.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "System.IO.Pipelines/4.7.1": {
+        "runtime": {
+          "lib/netcoreapp3.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "4.0.2.1",
+            "fileVersion": "4.700.20.12001"
+          }
+        }
+      },
+      "DrawingContracts/1.0.0": {
+        "dependencies": {
+          "Contracts": "1.0.4",
+          "DALContracts": "1.0.0",
+          "Microsoft.AspNetCore.Http.Features": "3.1.7",
+          "Microsoft.Extensions.Configuration": "3.1.8",
+          "ObserverContracts": "1.0.1",
+          "OracleDAL": "1.0.4"
+        },
+        "runtime": {
+          "DrawingContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnDocumentSharing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contracts/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d9IG9BFgpPjO3b+yo5ixqbRXZr7n298DMldJ9dYNlxKz7xpgPOvxm6XlKJYXMH72kPfR4IPf6VD6cEouCatj4g==",
+      "path": "contracts/1.0.4",
+      "hashPath": "contracts.1.0.4.nupkg.sha512"
+    },
+    "DALContracts/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eRG8H90mZ+iJQlt4z+CxxTbhLnWjGDfG5x/VCtslP1lQtQ0c6yl/fmXCljIq+ApwpCuIbijDdmtx0dKbHwL3hw==",
+      "path": "dalcontracts/1.0.0",
+      "hashPath": "dalcontracts.1.0.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Http.Features/3.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gOIh/ATcFrVvFxQK1CvfeIla4bOVHnXIhzImQrBvFVtemNIoMy7kD4d+/U/4833nhAU0t8JjNS3lG9DCywOnfQ==",
+      "path": "microsoft.aspnetcore.http.features/3.1.7",
+      "hashPath": "microsoft.aspnetcore.http.features.3.1.7.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xWvtu/ra8xDOy62ZXzQj1ElmmH3GpZBSKvw4LbfNXKCy+PaziS5Uh0gQ47D4H4w3u+PJfhNWCCGCp9ORNEzkRw==",
+      "path": "microsoft.extensions.configuration/3.1.8",
+      "hashPath": "microsoft.extensions.configuration.3.1.8.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0qbNyxGpuNP/fuQ3FLHesm1Vn/83qYcAgVsi1UQCQN1peY4YH1uiizOh4xbYkQyxiVMD/c/zhiYYv94G0DXSSA==",
+      "path": "microsoft.extensions.configuration.abstractions/3.1.8",
+      "hashPath": "microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XcIoXQhT0kwnEhOKv/LmpWR6yF6QWmBTy9Fcsz4aHuCOgTJ7Zd23ELtUA4BfwlYoFlSedavS+vURz9tNekd44g==",
+      "path": "microsoft.extensions.primitives/3.1.8",
+      "hashPath": "microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+    },
+    "ObserverContracts/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KsXnG3L0kR8cqQLdPZWBNYGLvt9ycU2C7fG0M7VpWfR6DaiE56ahRjtsWoxNqxciDYkWOpcdptm1tzQZnUUeLQ==",
+      "path": "observercontracts/1.0.1",
+      "hashPath": "observercontracts.1.0.1.nupkg.sha512"
+    },
+    "ObserverService/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HNODa9l6UTXtOjhrd7hxYsQfo0goYnHvm6ft+3lqZaMioi0ElVVOAWVIM5t+qN6i9B++R+tu8KqR8Y4/R1Y2tg==",
+      "path": "observerservice/1.0.1",
+      "hashPath": "observerservice.1.0.1.nupkg.sha512"
+    },
+    "ODP.NetCore/2.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JO0XH6/SYOFdxurhxXCa+uMThj4jYNVEOEELPjTcadzVGn0/f3evA6p1cwUoI7IRxDhBGtJc2wDi+cAxUvz76Q==",
+      "path": "odp.netcore/2.0.12",
+      "hashPath": "odp.netcore.2.0.12.nupkg.sha512"
+    },
+    "OracleDAL/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pZs4XAD9Y0eJxRRCtbR+C/YqaybGyBA+LZYRCeFYkFBWBFbgpxnF0/YKUJArOmeCbHbXNKFXCuP9hiR08TDONw==",
+      "path": "oracledal/1.0.4",
+      "hashPath": "oracledal.1.0.4.nupkg.sha512"
+    },
+    "System.IO.Pipelines/4.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TyMTasnXQt7U4k13RQ7tA3CrfWEkvWjR635SFfnKVwwMOgClLE5mdHSkG2D13BLIdNwbPTGVQnhQB8Rk7f53Rg==",
+      "path": "system.io.pipelines/4.7.1",
+      "hashPath": "system.io.pipelines.4.7.1.nupkg.sha512"
+    },
+    "DrawingContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

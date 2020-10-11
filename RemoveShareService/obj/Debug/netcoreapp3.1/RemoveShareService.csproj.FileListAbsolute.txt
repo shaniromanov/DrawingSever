@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\RemoveShareService\bin\Debug\netcoreapp3.1\RemoveShareService.deps.json
+C:\Users\user1\Desktop\DrawingSever\RemoveShareService\bin\Debug\netcoreapp3.1\RemoveShareService.dll
+C:\Users\user1\Desktop\DrawingSever\RemoveShareService\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\RemoveShareService\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\RemoveShareService\obj\Debug\netcoreapp3.1\RemoveShareService.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\RemoveShareService\obj\Debug\netcoreapp3.1\RemoveShareService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\RemoveShareService\obj\Debug\netcoreapp3.1\RemoveShareService.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\RemoveShareService\obj\Debug\netcoreapp3.1\RemoveShareService.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\RemoveShareService\bin\Debug\netcoreapp3.1\RemoveShareService.pdb
+C:\Users\user1\Desktop\DrawingSever\RemoveShareService\obj\Debug\netcoreapp3.1\RemoveShareService.dll
+C:\Users\user1\Desktop\DrawingSever\RemoveShareService\obj\Debug\netcoreapp3.1\RemoveShareService.pdb
+C:\Users\user1\Desktop\DrawingSever\RemoveShareService\obj\Debug\netcoreapp3.1\RemoveShareService.csproj.CoreCompileInputs.cache

@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Contracts" Version="1.0.4" />
+    <PackageReference Include="DALContracts" Version="1.0.3" />
+    <PackageReference Include="DI" Version="1.0.3" />
+    <PackageReference Include="GenerateIdContracts" Version="1.0.0" />
+    <PackageReference Include="GenerateIdService" Version="1.0.0" />
+    <PackageReference Include="ImageServiceCore" Version="1.0.4" />
+    <PackageReference Include="ImageServiceCoreContracts" Version="1.0.2" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.8" />
+    <PackageReference Include="ObserverContracts" Version="1.0.1" />
+    <PackageReference Include="ObserverService" Version="1.0.1" />
+    <PackageReference Include="OracleDAL" Version="1.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DrawingContracts\DrawingContracts.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
+
+</Project>

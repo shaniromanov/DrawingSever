@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\LoginService\bin\Debug\netcoreapp3.1\LoginService.deps.json
+C:\Users\user1\Desktop\DrawingSever\LoginService\bin\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\user1\Desktop\DrawingSever\LoginService\obj\Debug\netcoreapp3.1\LoginService.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\LoginService\bin\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\user1\Desktop\DrawingSever\LoginService\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\LoginService\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\LoginService\obj\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\user1\Desktop\DrawingSever\LoginService\obj\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\user1\Desktop\DrawingSever\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CoreCompileInputs.cache

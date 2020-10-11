@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EobYqTQlkn95di3YvyRM9Jlrb/q5zyG1lUkfs0tMe2QA+WGR0sjTVkB86Z4pHU2HjlOvqMDll/KXl6UaMxcI7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\DrawingSever\\DrawingDAL\\DrawingDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\contracts\\1.0.4\\contracts.1.0.4.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\oracledal\\1.0.1\\oracledal.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

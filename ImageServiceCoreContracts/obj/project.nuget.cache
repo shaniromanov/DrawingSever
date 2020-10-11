@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RbyOESQ6A2MPemSMGsLVddCIcN5f3QpPzPbLR7FS7WXAgEnd5YXS2JUAyya5qzC3AnZKMcugfx7h6rES/c7P+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\DrawingSever\\ImageServiceCoreContracts\\ImageServiceCoreContracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\contracts\\1.0.4\\contracts.1.0.4.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.7\\microsoft.aspnetcore.http.features.3.1.7.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.7\\microsoft.extensions.primitives.3.1.7.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

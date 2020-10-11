@@ -1,0 +1,9 @@
+C:\Users\user1\Desktop\DrawingSever\ObserverService\bin\Debug\netcoreapp3.1\ObserverService.deps.json
+C:\Users\user1\Desktop\DrawingSever\ObserverService\bin\Debug\netcoreapp3.1\ObserverService.dll
+C:\Users\user1\Desktop\DrawingSever\ObserverService\obj\Debug\netcoreapp3.1\ObserverService.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\ObserverService\obj\Debug\netcoreapp3.1\ObserverService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\ObserverService\obj\Debug\netcoreapp3.1\ObserverService.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\ObserverService\bin\Debug\netcoreapp3.1\ObserverService.pdb
+C:\Users\user1\Desktop\DrawingSever\ObserverService\obj\Debug\netcoreapp3.1\ObserverService.dll
+C:\Users\user1\Desktop\DrawingSever\ObserverService\obj\Debug\netcoreapp3.1\ObserverService.pdb
+C:\Users\user1\Desktop\DrawingSever\ObserverService\obj\Debug\netcoreapp3.1\ObserverService.csproj.CoreCompileInputs.cache

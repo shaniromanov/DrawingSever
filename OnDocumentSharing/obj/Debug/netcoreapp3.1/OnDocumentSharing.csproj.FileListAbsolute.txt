@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\OnDocumentSharing\bin\Debug\netcoreapp3.1\OnDocumentSharing.deps.json
+C:\Users\user1\Desktop\DrawingSever\OnDocumentSharing\bin\Debug\netcoreapp3.1\OnDocumentSharing.dll
+C:\Users\user1\Desktop\DrawingSever\OnDocumentSharing\obj\Debug\netcoreapp3.1\OnDocumentSharing.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\OnDocumentSharing\obj\Debug\netcoreapp3.1\OnDocumentSharing.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\OnDocumentSharing\obj\Debug\netcoreapp3.1\OnDocumentSharing.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\OnDocumentSharing\bin\Debug\netcoreapp3.1\OnDocumentSharing.pdb
+C:\Users\user1\Desktop\DrawingSever\OnDocumentSharing\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\OnDocumentSharing\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\OnDocumentSharing\obj\Debug\netcoreapp3.1\OnDocumentSharing.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\OnDocumentSharing\obj\Debug\netcoreapp3.1\OnDocumentSharing.dll
+C:\Users\user1\Desktop\DrawingSever\OnDocumentSharing\obj\Debug\netcoreapp3.1\OnDocumentSharing.pdb
+C:\Users\user1\Desktop\DrawingSever\OnDocumentSharing\obj\Debug\netcoreapp3.1\OnDocumentSharing.csproj.CoreCompileInputs.cache

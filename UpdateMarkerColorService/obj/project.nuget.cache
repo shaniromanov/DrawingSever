@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "TLz8OHo9gv1/jlPHArNYV7yC37IQA3DKeGENIhIc+I33DpClfYS+z2wNQSP4g2h3PftSapWmBCtAbxcYBjWA/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\DrawingSever\\UpdateMarkerColorService\\UpdateMarkerColorService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\contracts\\1.0.4\\contracts.1.0.4.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\dalcontracts\\1.0.0\\dalcontracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.7\\microsoft.aspnetcore.http.features.3.1.7.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\observercontracts\\1.0.1\\observercontracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\oracledal\\1.0.4\\oracledal.1.0.4.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

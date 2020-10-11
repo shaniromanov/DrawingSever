@@ -1,0 +1,9 @@
+C:\Users\user1\Desktop\DrawingSever\ObserverContracts\bin\Debug\netcoreapp3.1\ObserverContracts.deps.json
+C:\Users\user1\Desktop\DrawingSever\ObserverContracts\bin\Debug\netcoreapp3.1\ObserverContracts.dll
+C:\Users\user1\Desktop\DrawingSever\ObserverContracts\bin\Debug\netcoreapp3.1\ObserverContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\ObserverContracts\obj\Debug\netcoreapp3.1\ObserverContracts.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\ObserverContracts\obj\Debug\netcoreapp3.1\ObserverContracts.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\ObserverContracts\obj\Debug\netcoreapp3.1\ObserverContracts.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\DrawingSever\ObserverContracts\obj\Debug\netcoreapp3.1\ObserverContracts.dll
+C:\Users\user1\Desktop\DrawingSever\ObserverContracts\obj\Debug\netcoreapp3.1\ObserverContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\ObserverContracts\obj\Debug\netcoreapp3.1\ObserverContracts.csprojAssemblyReference.cache

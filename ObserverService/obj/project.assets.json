@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ObserverContracts/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/ObserverContracts.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/ObserverContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObserverContracts/1.0.1": {
+      "sha512": "KsXnG3L0kR8cqQLdPZWBNYGLvt9ycU2C7fG0M7VpWfR6DaiE56ahRjtsWoxNqxciDYkWOpcdptm1tzQZnUUeLQ==",
+      "type": "package",
+      "path": "observercontracts/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        "lib/netcoreapp3.1/ObserverContracts.dll",
+        "observercontracts.1.0.1.nupkg.sha512",
+        "observercontracts.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ObserverContracts >= 1.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user1\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.1",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user1\\Desktop\\DrawingSever\\ObserverService\\ObserverService.csproj",
+      "projectName": "ObserverService",
+      "projectPath": "C:\\Users\\user1\\Desktop\\DrawingSever\\ObserverService\\ObserverService.csproj",
+      "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user1\\Desktop\\DrawingSever\\ObserverService\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\user1\\Desktop\\package": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "ObserverContracts": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

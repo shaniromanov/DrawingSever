@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\UpdateMarkerColorService\bin\Debug\netcoreapp3.1\UpdateMarkerColorService.deps.json
+C:\Users\user1\Desktop\DrawingSever\UpdateMarkerColorService\bin\Debug\netcoreapp3.1\UpdateMarkerColorService.dll
+C:\Users\user1\Desktop\DrawingSever\UpdateMarkerColorService\obj\Debug\netcoreapp3.1\UpdateMarkerColorService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\UpdateMarkerColorService\obj\Debug\netcoreapp3.1\UpdateMarkerColorService.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\UpdateMarkerColorService\obj\Debug\netcoreapp3.1\UpdateMarkerColorService.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\UpdateMarkerColorService\bin\Debug\netcoreapp3.1\UpdateMarkerColorService.pdb
+C:\Users\user1\Desktop\DrawingSever\UpdateMarkerColorService\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\UpdateMarkerColorService\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\UpdateMarkerColorService\obj\Debug\netcoreapp3.1\UpdateMarkerColorService.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\UpdateMarkerColorService\obj\Debug\netcoreapp3.1\UpdateMarkerColorService.dll
+C:\Users\user1\Desktop\DrawingSever\UpdateMarkerColorService\obj\Debug\netcoreapp3.1\UpdateMarkerColorService.pdb
+C:\Users\user1\Desktop\DrawingSever\UpdateMarkerColorService\obj\Debug\netcoreapp3.1\UpdateMarkerColorService.csproj.CoreCompileInputs.cache

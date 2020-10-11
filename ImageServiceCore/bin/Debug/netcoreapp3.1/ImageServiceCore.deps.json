@@ -1,0 +1,111 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ImageServiceCore/1.0.4": {
+        "dependencies": {
+          "Contracts": "1.0.4",
+          "ImageServiceCoreContracts": "1.0.0",
+          "Microsoft.AspNetCore.Http.Features": "3.1.7"
+        },
+        "runtime": {
+          "ImageServiceCore.dll": {}
+        }
+      },
+      "Contracts/1.0.4": {
+        "runtime": {
+          "lib/netcoreapp3.1/Contracts.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "ImageServiceCoreContracts/1.0.0": {
+        "dependencies": {
+          "Contracts": "1.0.4",
+          "Microsoft.AspNetCore.Http.Features": "3.1.7"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/ImageServiceCoreContracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/3.1.7": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.7",
+          "System.IO.Pipelines": "4.7.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll": {
+            "assemblyVersion": "3.1.7.0",
+            "fileVersion": "3.100.720.37213"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.7": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "3.1.7.0",
+            "fileVersion": "3.100.720.37108"
+          }
+        }
+      },
+      "System.IO.Pipelines/4.7.1": {
+        "runtime": {
+          "lib/netcoreapp3.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "4.0.2.1",
+            "fileVersion": "4.700.20.12001"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImageServiceCore/1.0.4": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contracts/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d9IG9BFgpPjO3b+yo5ixqbRXZr7n298DMldJ9dYNlxKz7xpgPOvxm6XlKJYXMH72kPfR4IPf6VD6cEouCatj4g==",
+      "path": "contracts/1.0.4",
+      "hashPath": "contracts.1.0.4.nupkg.sha512"
+    },
+    "ImageServiceCoreContracts/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MX1d4CMzJ8S3DeIcJESIIVfjxUxZM4SHCfDI8b1SwebzhXFs/6zufmFJlVe6JjHMjG1f2HQmFKo4K8cosKynlA==",
+      "path": "imageservicecorecontracts/1.0.0",
+      "hashPath": "imageservicecorecontracts.1.0.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Http.Features/3.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gOIh/ATcFrVvFxQK1CvfeIla4bOVHnXIhzImQrBvFVtemNIoMy7kD4d+/U/4833nhAU0t8JjNS3lG9DCywOnfQ==",
+      "path": "microsoft.aspnetcore.http.features/3.1.7",
+      "hashPath": "microsoft.aspnetcore.http.features.3.1.7.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sa17s3vDAXTuIVGxuJcK713i0B0iaUoiwY4Sl2SLHhMqM8snznn0YVGiZAVkoKEUFWjvIg1Z/JNmAicBamI4mg==",
+      "path": "microsoft.extensions.primitives/3.1.7",
+      "hashPath": "microsoft.extensions.primitives.3.1.7.nupkg.sha512"
+    },
+    "System.IO.Pipelines/4.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TyMTasnXQt7U4k13RQ7tA3CrfWEkvWjR635SFfnKVwwMOgClLE5mdHSkG2D13BLIdNwbPTGVQnhQB8Rk7f53Rg==",
+      "path": "system.io.pipelines/4.7.1",
+      "hashPath": "system.io.pipelines.4.7.1.nupkg.sha512"
+    }
+  }
+}

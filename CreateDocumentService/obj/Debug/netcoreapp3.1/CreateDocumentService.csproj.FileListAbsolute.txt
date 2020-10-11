@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\CreateDocumentService\bin\Debug\netcoreapp3.1\CreateDocumentService.deps.json
+C:\Users\user1\Desktop\DrawingSever\CreateDocumentService\bin\Debug\netcoreapp3.1\CreateDocumentService.dll
+C:\Users\user1\Desktop\DrawingSever\CreateDocumentService\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\CreateDocumentService\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\CreateDocumentService\obj\Debug\netcoreapp3.1\CreateDocumentService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\CreateDocumentService\obj\Debug\netcoreapp3.1\CreateDocumentService.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\CreateDocumentService\obj\Debug\netcoreapp3.1\CreateDocumentService.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\CreateDocumentService\bin\Debug\netcoreapp3.1\CreateDocumentService.pdb
+C:\Users\user1\Desktop\DrawingSever\CreateDocumentService\obj\Debug\netcoreapp3.1\CreateDocumentService.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\CreateDocumentService\obj\Debug\netcoreapp3.1\CreateDocumentService.dll
+C:\Users\user1\Desktop\DrawingSever\CreateDocumentService\obj\Debug\netcoreapp3.1\CreateDocumentService.pdb
+C:\Users\user1\Desktop\DrawingSever\CreateDocumentService\obj\Debug\netcoreapp3.1\CreateDocumentService.csproj.CoreCompileInputs.cache

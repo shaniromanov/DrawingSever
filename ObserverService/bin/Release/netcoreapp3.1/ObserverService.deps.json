@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ObserverService/1.0.1": {
+        "dependencies": {
+          "ObserverContracts": "1.0.1"
+        },
+        "runtime": {
+          "ObserverService.dll": {}
+        }
+      },
+      "ObserverContracts/1.0.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/ObserverContracts.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObserverService/1.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ObserverContracts/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KsXnG3L0kR8cqQLdPZWBNYGLvt9ycU2C7fG0M7VpWfR6DaiE56ahRjtsWoxNqxciDYkWOpcdptm1tzQZnUUeLQ==",
+      "path": "observercontracts/1.0.1",
+      "hashPath": "observercontracts.1.0.1.nupkg.sha512"
+    }
+  }
+}

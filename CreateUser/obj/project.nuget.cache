@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJ/2CoB3MEROXcQBjtT6BDMblNBZwmNzXX1Q4+q/vZO8hXoUnmbn514WRKdy3GKI5LNor6s5WzNwR3jzELvULw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\DrawingSever\\CreateUser\\CreateUserService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\contracts\\1.0.4\\contracts.1.0.4.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\dalcontracts\\1.0.0\\dalcontracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\oracledal\\1.0.4\\oracledal.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\ValidateUserService\bin\Debug\netcoreapp3.1\ValidateUserService.deps.json
+C:\Users\user1\Desktop\DrawingSever\ValidateUserService\bin\Debug\netcoreapp3.1\ValidateUserService.dll
+C:\Users\user1\Desktop\DrawingSever\ValidateUserService\bin\Debug\netcoreapp3.1\ValidateUserService.pdb
+C:\Users\user1\Desktop\DrawingSever\ValidateUserService\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\ValidateUserService\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\ValidateUserService\obj\Debug\netcoreapp3.1\ValidateUserService.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\ValidateUserService\obj\Debug\netcoreapp3.1\ValidateUserService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\ValidateUserService\obj\Debug\netcoreapp3.1\ValidateUserService.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\ValidateUserService\obj\Debug\netcoreapp3.1\ValidateUserService.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\ValidateUserService\obj\Debug\netcoreapp3.1\ValidateUserService.dll
+C:\Users\user1\Desktop\DrawingSever\ValidateUserService\obj\Debug\netcoreapp3.1\ValidateUserService.pdb
+C:\Users\user1\Desktop\DrawingSever\ValidateUserService\obj\Debug\netcoreapp3.1\ValidateUserService.csproj.CoreCompileInputs.cache

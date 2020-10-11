@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\GetShareUserService\bin\Debug\netcoreapp3.1\GetShareUserService.deps.json
+C:\Users\user1\Desktop\DrawingSever\GetShareUserService\bin\Debug\netcoreapp3.1\GetShareUserService.dll
+C:\Users\user1\Desktop\DrawingSever\GetShareUserService\obj\Debug\netcoreapp3.1\GetShareUserService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\GetShareUserService\obj\Debug\netcoreapp3.1\GetShareUserService.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\GetShareUserService\bin\Debug\netcoreapp3.1\GetShareUserService.pdb
+C:\Users\user1\Desktop\DrawingSever\GetShareUserService\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\GetShareUserService\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\GetShareUserService\obj\Debug\netcoreapp3.1\GetShareUserService.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\GetShareUserService\obj\Debug\netcoreapp3.1\GetShareUserService.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\DrawingSever\GetShareUserService\obj\Debug\netcoreapp3.1\GetShareUserService.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\GetShareUserService\obj\Debug\netcoreapp3.1\GetShareUserService.dll
+C:\Users\user1\Desktop\DrawingSever\GetShareUserService\obj\Debug\netcoreapp3.1\GetShareUserService.pdb

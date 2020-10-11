@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ImBR0z1jB3X/TKQcBoTKfpgvkgkOzhQ4kKYMxaFS7nIyufFyI+rsK5EWwkcVDfjPqReVRq8blAieXDoOj+eaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\DrawingSever\\ObserverService\\ObserverService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\observercontracts\\1.0.1\\observercontracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\GetMarkersService\bin\Debug\netcoreapp3.1\GetMarkersService.deps.json
+C:\Users\user1\Desktop\DrawingSever\GetMarkersService\bin\Debug\netcoreapp3.1\GetMarkersService.dll
+C:\Users\user1\Desktop\DrawingSever\GetMarkersService\obj\Debug\netcoreapp3.1\GetMarkersService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\GetMarkersService\obj\Debug\netcoreapp3.1\GetMarkersService.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\GetMarkersService\bin\Debug\netcoreapp3.1\GetMarkersService.pdb
+C:\Users\user1\Desktop\DrawingSever\GetMarkersService\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\GetMarkersService\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\GetMarkersService\obj\Debug\netcoreapp3.1\GetMarkersService.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\GetMarkersService\obj\Debug\netcoreapp3.1\GetMarkersService.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\GetMarkersService\obj\Debug\netcoreapp3.1\GetMarkersService.dll
+C:\Users\user1\Desktop\DrawingSever\GetMarkersService\obj\Debug\netcoreapp3.1\GetMarkersService.pdb
+C:\Users\user1\Desktop\DrawingSever\GetMarkersService\obj\Debug\netcoreapp3.1\GetMarkersService.csproj.CoreCompileInputs.cache

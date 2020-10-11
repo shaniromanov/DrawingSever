@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\MarkerDAL\bin\Debug\netcoreapp3.1\MarkerDAL.deps.json
+C:\Users\user1\Desktop\DrawingSever\MarkerDAL\bin\Debug\netcoreapp3.1\MarkerDAL.dll
+C:\Users\user1\Desktop\DrawingSever\MarkerDAL\obj\Debug\netcoreapp3.1\MarkerDAL.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\MarkerDAL\obj\Debug\netcoreapp3.1\MarkerDAL.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\MarkerDAL\bin\Debug\netcoreapp3.1\MarkerDAL.pdb
+C:\Users\user1\Desktop\DrawingSever\MarkerDAL\obj\Debug\netcoreapp3.1\MarkerDAL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\MarkerDAL\obj\Debug\netcoreapp3.1\MarkerDAL.dll
+C:\Users\user1\Desktop\DrawingSever\MarkerDAL\obj\Debug\netcoreapp3.1\MarkerDAL.pdb
+C:\Users\user1\Desktop\DrawingSever\MarkerDAL\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\MarkerDAL\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\MarkerDAL\obj\Debug\netcoreapp3.1\MarkerDAL.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\MarkerDAL\obj\Debug\netcoreapp3.1\MarkerDAL.csproj.CoreCompileInputs.cache

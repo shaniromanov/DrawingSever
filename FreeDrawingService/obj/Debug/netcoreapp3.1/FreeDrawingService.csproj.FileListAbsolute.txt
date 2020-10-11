@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\FreeDrawingService\bin\Debug\netcoreapp3.1\FreeDrawingService.deps.json
+C:\Users\user1\Desktop\DrawingSever\FreeDrawingService\bin\Debug\netcoreapp3.1\FreeDrawingService.dll
+C:\Users\user1\Desktop\DrawingSever\FreeDrawingService\obj\Debug\netcoreapp3.1\FreeDrawingService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\FreeDrawingService\obj\Debug\netcoreapp3.1\FreeDrawingService.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\FreeDrawingService\bin\Debug\netcoreapp3.1\FreeDrawingService.pdb
+C:\Users\user1\Desktop\DrawingSever\FreeDrawingService\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\FreeDrawingService\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\FreeDrawingService\obj\Debug\netcoreapp3.1\FreeDrawingService.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\FreeDrawingService\obj\Debug\netcoreapp3.1\FreeDrawingService.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\DrawingSever\FreeDrawingService\obj\Debug\netcoreapp3.1\FreeDrawingService.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\FreeDrawingService\obj\Debug\netcoreapp3.1\FreeDrawingService.dll
+C:\Users\user1\Desktop\DrawingSever\FreeDrawingService\obj\Debug\netcoreapp3.1\FreeDrawingService.pdb

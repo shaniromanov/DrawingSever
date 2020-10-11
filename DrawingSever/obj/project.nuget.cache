@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+mbwXliOc2RvVAynsq2Dlktyyme0JuVGdj5jmWHgmoSCL4Rn7Hmu3/SwMi/9B4z2CpU2o4DzklNbkxuzFoa8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\DrawingSever\\DrawingSever\\DrawingSever.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\contracts\\1.0.4\\contracts.1.0.4.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\dalcontracts\\1.0.3\\dalcontracts.1.0.3.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\di\\1.0.3\\di.1.0.3.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\generateidcontracts\\1.0.0\\generateidcontracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\generateidservice\\1.0.0\\generateidservice.1.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\imageservicecore\\1.0.4\\imageservicecore.1.0.4.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\imageservicecorecontracts\\1.0.2\\imageservicecorecontracts.1.0.2.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.7\\microsoft.aspnetcore.http.features.3.1.7.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\observercontracts\\1.0.1\\observercontracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\observerservice\\1.0.1\\observerservice.1.0.1.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\oracledal\\1.0.7\\oracledal.1.0.7.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

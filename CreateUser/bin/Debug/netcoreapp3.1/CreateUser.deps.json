@@ -1,0 +1,105 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CreateUser/1.0.0": {
+        "dependencies": {
+          "DrawingContracts": "1.0.0"
+        },
+        "runtime": {
+          "CreateUser.dll": {}
+        }
+      },
+      "Contracts/1.0.4": {
+        "runtime": {
+          "lib/netcoreapp3.1/Contracts.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "DALContracts/1.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/DALContracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ODP.NetCore/2.0.12": {
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {
+            "assemblyVersion": "2.0.12.0",
+            "fileVersion": "2.0.12.0"
+          }
+        }
+      },
+      "OracleDAL/1.0.4": {
+        "dependencies": {
+          "DALContracts": "1.0.0",
+          "ODP.NetCore": "2.0.12"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/OracleDAL.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "DrawingContracts/1.0.0": {
+        "dependencies": {
+          "Contracts": "1.0.4",
+          "DALContracts": "1.0.0",
+          "OracleDAL": "1.0.4"
+        },
+        "runtime": {
+          "DrawingContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreateUser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contracts/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d9IG9BFgpPjO3b+yo5ixqbRXZr7n298DMldJ9dYNlxKz7xpgPOvxm6XlKJYXMH72kPfR4IPf6VD6cEouCatj4g==",
+      "path": "contracts/1.0.4",
+      "hashPath": "contracts.1.0.4.nupkg.sha512"
+    },
+    "DALContracts/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eRG8H90mZ+iJQlt4z+CxxTbhLnWjGDfG5x/VCtslP1lQtQ0c6yl/fmXCljIq+ApwpCuIbijDdmtx0dKbHwL3hw==",
+      "path": "dalcontracts/1.0.0",
+      "hashPath": "dalcontracts.1.0.0.nupkg.sha512"
+    },
+    "ODP.NetCore/2.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JO0XH6/SYOFdxurhxXCa+uMThj4jYNVEOEELPjTcadzVGn0/f3evA6p1cwUoI7IRxDhBGtJc2wDi+cAxUvz76Q==",
+      "path": "odp.netcore/2.0.12",
+      "hashPath": "odp.netcore.2.0.12.nupkg.sha512"
+    },
+    "OracleDAL/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pZs4XAD9Y0eJxRRCtbR+C/YqaybGyBA+LZYRCeFYkFBWBFbgpxnF0/YKUJArOmeCbHbXNKFXCuP9hiR08TDONw==",
+      "path": "oracledal/1.0.4",
+      "hashPath": "oracledal.1.0.4.nupkg.sha512"
+    },
+    "DrawingContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

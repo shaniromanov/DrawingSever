@@ -1,0 +1,169 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Contracts/1.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Contracts.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Contracts.dll": {}
+        }
+      },
+      "ODP.NetCore/2.0.12": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
+      "OracleDAL/1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "ODP.NetCore": "2.0.12"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/OracleDAL.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/OracleDAL.dll": {}
+        }
+      },
+      "DrawingContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Contracts": "1.0.4",
+          "OracleDAL": "1.0.1"
+        },
+        "compile": {
+          "bin/placeholder/DrawingContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DrawingContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contracts/1.0.4": {
+      "sha512": "d9IG9BFgpPjO3b+yo5ixqbRXZr7n298DMldJ9dYNlxKz7xpgPOvxm6XlKJYXMH72kPfR4IPf6VD6cEouCatj4g==",
+      "type": "package",
+      "path": "contracts/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        "contracts.1.0.4.nupkg.sha512",
+        "contracts.nuspec",
+        "lib/netcoreapp3.1/Contracts.dll"
+      ]
+    },
+    "ODP.NetCore/2.0.12": {
+      "sha512": "JO0XH6/SYOFdxurhxXCa+uMThj4jYNVEOEELPjTcadzVGn0/f3evA6p1cwUoI7IRxDhBGtJc2wDi+cAxUvz76Q==",
+      "type": "package",
+      "path": "odp.netcore/2.0.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Oracle.ManagedDataAccess.dll",
+        "odp.netcore.2.0.12.nupkg.sha512",
+        "odp.netcore.nuspec"
+      ]
+    },
+    "OracleDAL/1.0.1": {
+      "sha512": "x2//l9i3qL0nkj8rcQHz+JzkNFC1jxAGR+fxuroOggJz8Sii6bYPzL7YOvP5w6aDtC45kAlHhEqx6fmCIFACoQ==",
+      "type": "package",
+      "path": "oracledal/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        "lib/netcoreapp3.1/OracleDAL.dll",
+        "oracledal.1.0.1.nupkg.sha512",
+        "oracledal.nuspec"
+      ]
+    },
+    "DrawingContracts/1.0.0": {
+      "type": "project",
+      "path": "../DrawingContracts/DrawingContracts.csproj",
+      "msbuildProject": "../DrawingContracts/DrawingContracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Contracts >= 1.0.4",
+      "DrawingContracts >= 1.0.0",
+      "OracleDAL >= 1.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user1\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user1\\Desktop\\DrawingSever\\RemoveUser\\RemoveUser.csproj",
+      "projectName": "RemoveUser",
+      "projectPath": "C:\\Users\\user1\\Desktop\\DrawingSever\\RemoveUser\\RemoveUser.csproj",
+      "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user1\\Desktop\\DrawingSever\\RemoveUser\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\user1\\Desktop\\package": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\user1\\Desktop\\DrawingSever\\DrawingContracts\\DrawingContracts.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\DrawingSever\\DrawingContracts\\DrawingContracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Contracts": {
+            "target": "Package",
+            "version": "[1.0.4, )"
+          },
+          "OracleDAL": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

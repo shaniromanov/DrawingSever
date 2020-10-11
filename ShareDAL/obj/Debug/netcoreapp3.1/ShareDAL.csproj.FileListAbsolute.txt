@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\ShareDAL\bin\Debug\netcoreapp3.1\ShareDAL.deps.json
+C:\Users\user1\Desktop\DrawingSever\ShareDAL\bin\Debug\netcoreapp3.1\ShareDAL.dll
+C:\Users\user1\Desktop\DrawingSever\ShareDAL\obj\Debug\netcoreapp3.1\ShareDAL.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\ShareDAL\obj\Debug\netcoreapp3.1\ShareDAL.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\ShareDAL\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\ShareDAL\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\ShareDAL\obj\Debug\netcoreapp3.1\ShareDAL.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\ShareDAL\bin\Debug\netcoreapp3.1\ShareDAL.pdb
+C:\Users\user1\Desktop\DrawingSever\ShareDAL\obj\Debug\netcoreapp3.1\ShareDAL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\ShareDAL\obj\Debug\netcoreapp3.1\ShareDAL.dll
+C:\Users\user1\Desktop\DrawingSever\ShareDAL\obj\Debug\netcoreapp3.1\ShareDAL.pdb
+C:\Users\user1\Desktop\DrawingSever\ShareDAL\obj\Debug\netcoreapp3.1\ShareDAL.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\user1\Desktop\DrawingSever\GetDocumentService\bin\Debug\netcoreapp3.1\GetDocumentService.deps.json
+C:\Users\user1\Desktop\DrawingSever\GetDocumentService\bin\Debug\netcoreapp3.1\GetDocumentService.dll
+C:\Users\user1\Desktop\DrawingSever\GetDocumentService\bin\Debug\netcoreapp3.1\DocumentDAL.dll
+C:\Users\user1\Desktop\DrawingSever\GetDocumentService\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\GetDocumentService\bin\Debug\netcoreapp3.1\DocumentDAL.pdb
+C:\Users\user1\Desktop\DrawingSever\GetDocumentService\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\GetDocumentService\obj\Debug\netcoreapp3.1\GetDocumentService.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\GetDocumentService\obj\Debug\netcoreapp3.1\GetDocumentService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\GetDocumentService\obj\Debug\netcoreapp3.1\GetDocumentService.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\GetDocumentService\obj\Debug\netcoreapp3.1\GetDocumentService.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\GetDocumentService\bin\Debug\netcoreapp3.1\GetDocumentService.pdb
+C:\Users\user1\Desktop\DrawingSever\GetDocumentService\obj\Debug\netcoreapp3.1\GetDocumentService.dll
+C:\Users\user1\Desktop\DrawingSever\GetDocumentService\obj\Debug\netcoreapp3.1\GetDocumentService.pdb
+C:\Users\user1\Desktop\DrawingSever\GetDocumentService\obj\Debug\netcoreapp3.1\GetDocumentService.csproj.CoreCompileInputs.cache

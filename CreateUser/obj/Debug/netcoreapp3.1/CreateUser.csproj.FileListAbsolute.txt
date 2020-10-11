@@ -1,0 +1,8 @@
+C:\Users\user1\Desktop\DrawingSever\CreateUser\bin\Debug\netcoreapp3.1\CreateUser.deps.json
+C:\Users\user1\Desktop\DrawingSever\CreateUser\bin\Debug\netcoreapp3.1\CreateUser.dll
+C:\Users\user1\Desktop\DrawingSever\CreateUser\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\CreateUser\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\CreateUser\obj\Debug\netcoreapp3.1\CreateUser.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\CreateUser\obj\Debug\netcoreapp3.1\CreateUser.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\CreateUser\obj\Debug\netcoreapp3.1\CreateUser.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\CreateUser\obj\Debug\netcoreapp3.1\CreateUser.csproj.CopyComplete

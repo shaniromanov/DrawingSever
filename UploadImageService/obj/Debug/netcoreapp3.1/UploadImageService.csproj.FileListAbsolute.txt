@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\DrawingSever\UploadImageService\bin\Debug\netcoreapp3.1\UploadImageService.deps.json
+C:\Users\user1\Desktop\DrawingSever\UploadImageService\bin\Debug\netcoreapp3.1\UploadImageService.dll
+C:\Users\user1\Desktop\DrawingSever\UploadImageService\bin\Debug\netcoreapp3.1\UploadImageService.pdb
+C:\Users\user1\Desktop\DrawingSever\UploadImageService\obj\Debug\netcoreapp3.1\UploadImageService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DrawingSever\UploadImageService\obj\Debug\netcoreapp3.1\UploadImageService.AssemblyInfo.cs
+C:\Users\user1\Desktop\DrawingSever\UploadImageService\obj\Debug\netcoreapp3.1\UploadImageService.dll
+C:\Users\user1\Desktop\DrawingSever\UploadImageService\obj\Debug\netcoreapp3.1\UploadImageService.pdb
+C:\Users\user1\Desktop\DrawingSever\UploadImageService\obj\Debug\netcoreapp3.1\UploadImageService.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DrawingSever\UploadImageService\bin\Debug\netcoreapp3.1\DrawingContracts.dll
+C:\Users\user1\Desktop\DrawingSever\UploadImageService\bin\Debug\netcoreapp3.1\DrawingContracts.pdb
+C:\Users\user1\Desktop\DrawingSever\UploadImageService\obj\Debug\netcoreapp3.1\UploadImageService.csproj.CopyComplete
+C:\Users\user1\Desktop\DrawingSever\UploadImageService\obj\Debug\netcoreapp3.1\UploadImageService.csproj.CoreCompileInputs.cache

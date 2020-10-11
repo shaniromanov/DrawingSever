@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebSocketService/1.0.0": {
+        "dependencies": {
+          "WebSocketContracts": "1.0.0"
+        },
+        "runtime": {
+          "WebSocketService.dll": {}
+        }
+      },
+      "WebSocketContracts/1.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/WebSocketContracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebSocketService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebSocketContracts/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gnLwb2qv4ahqRW4HTI4IwgbZXPEHTtYnDut48Hx+UfYSLH1nuSD1lMb9cCSJnhvIsn6Huz8O6fc5vfoyfpE2QA==",
+      "path": "websocketcontracts/1.0.0",
+      "hashPath": "websocketcontracts.1.0.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qhb0BoxsAF6p3j9vSFByth4rHQC8JccsVw8r7N2Bty4xYU8eqnmxmFp68pUMfy3zwDYinC1uQRgPr/wxzZhXIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\DrawingSever\\GenerateIdService\\GenerateIdService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\generateidcontracts\\1.0.0\\generateidcontracts.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
